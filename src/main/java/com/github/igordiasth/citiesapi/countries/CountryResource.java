@@ -1,8 +1,8 @@
-package com.github.igordiasth.citiesapi;
+package com.github.igordiasth.citiesapi.countries;
 
 
 import com.github.igordiasth.citiesapi.countries.Country;
-import com.github.igordiasth.citiesapi.repository.CountryRepository;
+import com.github.igordiasth.citiesapi.countries.repository.CountryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;

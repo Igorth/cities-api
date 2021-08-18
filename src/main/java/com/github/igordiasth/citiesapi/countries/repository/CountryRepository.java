@@ -1,4 +1,4 @@
-package com.github.igordiasth.citiesapi.repository;
+package com.github.igordiasth.citiesapi.countries.repository;
 
 import com.github.igordiasth.citiesapi.countries.Country;
 import org.springframework.data.jpa.repository.JpaRepository;
