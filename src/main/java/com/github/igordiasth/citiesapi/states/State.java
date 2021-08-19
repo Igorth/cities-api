@@ -1,6 +1,5 @@
-package com.github.igordiasth.citiesapi.staties;
+package com.github.igordiasth.citiesapi.states;
 
-import com.github.igordiasth.citiesapi.countries.Country;
 import com.vladmihalcea.hibernate.type.json.JsonBinaryType;
 import org.hibernate.annotations.Type;
 import org.hibernate.annotations.TypeDef;
